@@ -11,6 +11,29 @@ html {
   overflow-x: hidden;
 }
 
+h1,
+h2,
+h3,
+h4,
+p {
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
 body {
   background-color: #e2e8f0;
   display: flex;
@@ -37,6 +60,10 @@ footer {
 ul {
   display: flex;
   gap: 1.6rem;
+}
+
+a:hover {
+  color: #f8f9fa;
 }
 
 .container {
