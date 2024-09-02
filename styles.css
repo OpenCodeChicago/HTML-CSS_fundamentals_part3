@@ -75,12 +75,19 @@ h1 {
 
 .container {
   background-color: #c5c2c2;
-  min-width: 620px;
+  min-width: 720px;
   width: 100%;
   min-height: 400px;
   display: flex;
-  flex-direction: column;
   gap: 2.4rem;
   padding: 4.8rem;
   border-radius: 12px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/form.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.form_container {
+  display: flex;
 }
