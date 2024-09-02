@@ -66,9 +66,18 @@ a:hover {
   color: #f8f9fa;
 }
 
+h1 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 2.4rem;
+}
+
 .container {
   background-color: #c5c2c2;
+  min-width: 620px;
   width: 100%;
+  min-height: 400px;
   display: flex;
   flex-direction: column;
   gap: 2.4rem;
