@@ -9,12 +9,20 @@
 
 ## What We Covered
 
-In this lesson, we covered:
+In this lesson, we explored the following key concepts:
 
-- **Form Elements**: Learn the key components of forms such as `<form>`, `<label>`, `<input>`, and how to structure forms for user interaction.
-- **Input Types**: Dive into different types of form inputs, including text fields, password fields, checkboxes, radio buttons, and submit buttons.
-- **Form Accessibility**: Best practices for making forms accessible using proper labeling and structure.
-- **Styling Forms**: Learn how to style form elements using CSS to enhance user experience.
+- **HTML5 Form Elements**:
+  - **Text inputs** (`<input type="text">`, `<input type="email">`, etc.)
+  - **Radio buttons** and **Checkboxes**
+  - **Select boxes** (`<select>`) and **Textareas**
+  - **Buttons** (`<button>`, `<input type="submit">`, etc.)
+- **Form Structure**:
+  - Building semantic, accessible forms with **`<form>`** tags.
+- **Basic Form Validation**:
+  - Using built-in HTML5 validation attributes like `required`, `pattern`, `minlength`, etc.
+  - Applying **placeholder text**, **labeling inputs**, and ensuring **accessibility**.
+- **Styling Forms**:
+  - Customizing form appearance with **CSS**: borders, padding, margin, hover, focus.
 
 ---
 
