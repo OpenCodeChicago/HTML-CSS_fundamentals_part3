@@ -85,7 +85,7 @@ h1 {
   gap: 2.4rem;
   padding: 24px 48px;
   border-radius: 12px;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/form.webp");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/images/form.webp");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
